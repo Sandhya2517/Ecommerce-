@@ -1,11 +1,5 @@
-Got it! Below is your **README.md** file for your shopping cart project.
 
----
-
-### **README.md**
-```md
-# Shopping Cart Web Application
-
+### **ecommerce**
 ## Overview
 This project is a **fully functional shopping cart system** that allows users to **browse products, add items to the cart, view their cart, and proceed to checkout**. The cart preserves data using `localStorage`, ensuring that items remain saved even after a page refresh.
 
