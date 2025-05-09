@@ -57,16 +57,20 @@ This project is a **fully functional shopping cart system** that allows users to
 ## License
 This project is open-source and free to use.
 
-## Author
-Created by **Your Name** – Feel free to customize the project as needed!
-```
+## outputs
+![Screenshot (22)](https://github.com/user-attachments/assets/f845117c-251e-4ea0-9a2e-6e6d47d547fe)
+![Screenshot (23)](https://github.com/user-attachments/assets/d9ba09ca-e532-409b-9760-4c711931849a)
+![Screenshot (24)](https://github.com/user-attachments/assets/8b151728-f0bc-4a73-9a1b-a53bd0b7021f)
+![Screenshot (25)](https://github.com/user-attachments/assets/72a176f8-504d-48aa-861b-cc544c30802f)
+![Screenshot (26)](https://github.com/user-attachments/assets/d2d91c5d-0ac0-4a66-bf19-af00e798a643)
+![Screenshot (27)](https://github.com/user-attachments/assets/15c7ca32-00c8-4a4e-924a-760d9fd8f820)
+![Screenshot (28)](https://github.com/user-attachments/assets/62715af9-e531-4df8-8e95-76cf74d01c48)
 
----
 
-### **What’s Included?**
-✔ **Clear project overview**  
-✔ **Setup and usage instructions**  
-✔ **Folder structure breakdown**  
-✔ **Future improvement suggestions**  
 
-You can save this as `README.md` and update details like repository link, author name, etc. Let me know if you need any adjustments! 🚀
+
+
+
+
+
+
